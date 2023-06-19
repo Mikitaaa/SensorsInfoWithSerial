@@ -1,0 +1,5 @@
+bin/
+
+Proj/build/
+
+.DS_Store
