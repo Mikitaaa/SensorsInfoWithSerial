@@ -3,3 +3,7 @@ bin/
 Proj/build/
 
 .DS_Store
+
+Proj/CMakeLists.txt.user
+
+Icon?
